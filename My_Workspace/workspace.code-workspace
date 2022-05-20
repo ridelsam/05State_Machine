@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "003Protimer",
+			"path": "003Protimer"
+		},
+		{
+			"name": "004Protimer_SH",
+			"path": "004Protimer_SH"
+		},
+		{
+			"name": "005Protimer_ST",
+			"path": "005Protimer_ST"
+		},
+		{
+			"name": "006QHsmTest",
+			"path": "006QHsmTest"
+		}
+	],
+	"settings": {}
+}
